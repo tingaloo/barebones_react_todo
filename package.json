@@ -1,0 +1,27 @@
+{
+  "name": "ReactWebpack2Boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate using Webpack 2 alpha",
+  "main": "app.jsx",
+  "scripts": {
+    "start": "webpack-dev-server --open --inline --hot",
+    "build": "webpack",
+    "flow": "flow"
+  },
+  "author": "Lew",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-airbnb": "^2.1.1",
+    "file-loader": "^0.8.5",
+    "react-hot-loader": "3.0.0-beta.5",
+    "webpack": "2.1.0-beta.25",
+    "webpack-dev-server": "2.1.0-beta.10"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}

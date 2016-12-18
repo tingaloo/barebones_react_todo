@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store?
+
+#dependency directory
+node_modules
+
+#distribution directory
+dist
+npm-debug.log
