@@ -1,9 +1,8 @@
 import React from 'react'
+import TodoList from '../TodoList/todolist'
 
 export default function App () {
     return (
-        <div>
-          Hello World!
-        </div>
+      <TodoList />
     )
 }

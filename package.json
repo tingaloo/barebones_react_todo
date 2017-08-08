@@ -1,7 +1,7 @@
 {
   "name": "ReactWebpack2Boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate using Webpack 2 alpha",
+  "description": "A boilerplate using Webpack 2",
   "main": "app.jsx",
   "scripts": {
     "start": "webpack-dev-server --open --inline --hot",
